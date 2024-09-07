@@ -1,4 +1,4 @@
-## Livraria Online: Encontre seu próximo livro! 
+## Livraria Online: Encontre seu próximo livro! - Imersão DEV com Google Gemini
 
 **O que é?**
 
